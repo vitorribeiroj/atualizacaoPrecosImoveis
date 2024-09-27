@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Vitor\TI\ImoveisPrecoDesktopApp\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="AdicionarDespesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdicionarReceita.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ConsultarImoveis.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="CadastrarFinanciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ContabilizacaoReceitasAluguel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DadosAluguel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DadosFinanciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarDadosImovel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="EditarDespesa.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JanelaAmortizacaoFinanciamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="JanelaConsultaIndividual.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PaginaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ProgressForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
